@@ -1,0 +1,10 @@
+{
+  "name": "sweetalert"
+, "version": "0.0.0"
+, "main": "lib/sweetalert.min.js"
+, "description": "npm wrapper for sweetalert"
+, "repository": {
+    "type": "git",
+    "url": "git://github.com/pemrouz/sweetalert.git"
+  }
+}
